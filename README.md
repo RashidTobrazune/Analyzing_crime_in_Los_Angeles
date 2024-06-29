@@ -71,3 +71,6 @@ I answered the questions using my fndings:
 55-64    20169
 65+      14747
 
+<img width="582" alt="imagg2" src="https://github.com/RashidTobrazune/Analyzing_crime_in_Los_Angeles/assets/150378293/ac32bf8f-dccb-4d5a-9e85-09821134bc82">
+<img width="960" alt="imagg" src="https://github.com/RashidTobrazune/Analyzing_crime_in_Los_Angeles/assets/150378293/dd0ff4e7-8159-437c-978f-bdfbcd958b88">
+
