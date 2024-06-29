@@ -1,3 +1,7 @@
+![la_skyline](https://github.com/RashidTobrazune/Analyzing_crime_in_Los_Angeles/assets/150378293/61b85c1e-d1d9-45d0-97b5-27bd7d16ad2b)
+
+
+
 # Analyzing_crime_in_Los_Angeles
 I found out where and when crime is likely to occur, and also the types of crime committed.
 Los Angeles, California. The City of Angels. Tinseltown. The Entertainment Capital of the World!
